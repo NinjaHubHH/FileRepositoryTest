@@ -1,0 +1,16 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" version="1.1">
+  <g tagName="myId1">
+    <ellipse cx="130" cy="70" rx="15" ry="8"/>
+    <path d="M2.12898292,3.55549103 L2.12898292,8.4784786" stroke-linecap="round"/>
+  </g>
+  <g tagName="myId2" transform="translate(108.000000, 8.000000)" stroke="#C6D8E1" stroke-width="10" stroke-linecap="round">
+    <path d="M1.5,5 L14.5,5" id="Line1"/>
+    <path d="M11.5,1 L24.5,1" id="Line2"/>
+    <path d="M17.5,5 L21,5" id="Line3"/>
+  </g>
+  <g tagName="myId3">
+    <ellipse cx="50" cy="50" rx="20" ry="11"/>
+    <path tagId="myId4" d="M2.12898292,3.55549103 L2.12898292,8.4784786" stroke-linecap="round"/>
+  </g>
+</svg>
